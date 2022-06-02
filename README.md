@@ -6,5 +6,7 @@
 [![GoReportCard example](https://goreportcard.com/badge/github.com/nanomsg/mangos)](https://goreportcard.com/report/github.com/nanomsg/mangos)
 [![GoDoc reference example](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/nanomsg.org/go/mangos/v2)
 
+The purpose of this application was to create simple project based on GO.
+
 ## Diagram
 ![image](./assets/diagram_01.jpg)
